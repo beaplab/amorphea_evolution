@@ -7,7 +7,7 @@ A curated collection of input data and analysis scripts used in the study:
 
 ## 📜 Script Usage Overview
 
-This repository documents all required **input files** and the **execution order** of scripts within our gene function evolution pipeline.
+This repository documents all required **input files** and the **execution order** of scripts within our gene function evolution pipeline. Scripts are stored in Github, while input files are stored in Figshare (10.6084/m9.figshare.28741229).
 
 ---
 
