@@ -67,35 +67,35 @@ This repository documents all required **input files** and the **execution order
    _Genome–transcriptome comparison for Metazoa vs. Fungi._
 
 8. `clean_metazoa_vs_fungi_cca_v4.R`  
-   _Generates Supplementary Figure 2 for Metazoa–Fungi._
+   _Generates Supplementary Figure 5 for Metazoa–Fungi._
 
 9. `clean_amoebozoa_genome_transcriptome_check_cca_v4.R`  
-   _Generates Supplementary Figure 2 for Amoebozoa._
+   _Generates Supplementary Figure 5 for Amoebozoa._
 
 ---
 
 ### 🧠 Phase 4: Ancestor & Correspondence Analyses (CA)
 
 10. `clean_cca_v4.R`  
-    _Main CA plots (Figure 4, Supplementary Figure 7)._
+    _Main CA plots (Figure 4, Supplementary Figure 3)._
 
 11. `clean_ancestors_cca_v4.R`  
     _Performs CA on ancestral node data._
 
 12. `clean_amoebozoa_cca_v4.R`  
-    _Amoebozoa-specific CA (Supplementary Figures 4–5)._
+    _Amoebozoa-specific CA (Supplementary Figures 6–7)._
 
 13. `clean_percentual_gains_losses.R`  
-    _Quantifies gene gain/loss at internal nodes (Supplementary Figure 6)._
+    _Quantifies gene gain/loss at internal nodes (Supplementary Figure 8)._
 
 14. `clean_metazoa_vs_amoebozoa_cca_v4.R`  
-    _Generates Supplementary Figure 3 (Metazoa–Amoebozoa CA)._
+    _Generates Supplementary Figure 4 (Metazoa–Amoebozoa CA)._
 
 15. `clean_random_check_cca_v4.R`  
-    _Analyzes random data for comparison (Supplementary Figure 8)._
+    _Analyzes random data for comparison (Supplementary Figure 10)._
 
 16. `clean_amoebozoa_vs_fungi_cca_v4.R`  
-    _Generates Supplementary Figure 3 (Amoebozoa–Fungi CA)._
+    _Generates Supplementary Figure 4 (Amoebozoa–Fungi CA)._
 
 ---
 
@@ -105,7 +105,7 @@ This repository documents all required **input files** and the **execution order
     _Maps Pfam clans to orthogroups for clustering analysis._
 
 18. `clean_automatic_notung_clusters_v4.R`  
-    _Creates Pfam-based heatmaps (e.g., Figure 5)._
+    _Creates Pfam-based heatmaps (e.g., Figure 7)._
 
 ---
 
