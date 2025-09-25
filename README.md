@@ -97,17 +97,21 @@ This repository documents all required **input files** and the **execution order
 16. `clean_amoebozoa_vs_fungi_cca_v4.R`  
     _Generates Supplementary Figure 4 (Amoebozoa–Fungi CA)._
 
+17. `clean_check_dictis_v4.R`  
+    _Finds COG categories that are more similar to either Fungi or Amoebozoa in dictyostelids._
+
 ---
 
 ### 🔥 Phase 5: Pfam Clan Analyses
 
-17. `clean_Pfams_per_og_and_protein_v4.R`  
+18. `clean_Pfams_per_og_and_protein_v4.R`  
     _Maps Pfam clans to orthogroups for clustering analysis._
 
-18. `clean_automatic_notung_clusters_v4.R`  
+19. `clean_automatic_notung_clusters_v4.R`  
     _Creates Pfam-based heatmaps (e.g., Figure 7)._
+    
+---   
 
----
 
 ## 🧾 Citation
 
